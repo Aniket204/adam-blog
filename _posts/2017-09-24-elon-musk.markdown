@@ -2,7 +2,7 @@
 layout: post
 title:  Real life IRON MAN
 img: post-2.jpg # Add image post (optional)
-tags: [Blog, Sunset]
+tags: [Blog, Idol]
 author: Aniket
 ---
 ELON MUSK
