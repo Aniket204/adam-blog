@@ -1,6 +1,6 @@
 ---
 layout: post
 title: The forest in the fog
-img: post-6.jpg # Add image post (optional)
+img: post-6.jpg 
 tags: 
 author: Aniket
